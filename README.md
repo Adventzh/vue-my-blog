@@ -1,19 +1,15 @@
 # myblog
 
-## Project setup
 ```
-npm install
+vue create myblog
 ```
 
-### Compiles and hot-reloads for development
 ```
 npm run serve
 ```
+## 注意：
 
-### Compiles and minifies for production
-```
-npm run build
-```
++ 使用firebase保存本地数据，注意科学上网
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
++ 下载时需要npm install下依赖
+
